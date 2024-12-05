@@ -22,7 +22,7 @@ const Feed = () => {
                     <p className="text-sm font-medium text-gray-800">
                       {item.title}
                     </p>
-                    <p className="text-xs text-gray-500">{item.subtitle}</p>
+                    <p className="text-xs text-gray-600">{item.subtitle}</p>
                     <div className="mt-2">
                       <button className="bg-white font-bold text-gray-800 text-base px-2 py-2 border-gray-800 border-2 rounded-full flex items-center gap-1  transition">
                         <span className="text-base font-bold text-gray-800">
